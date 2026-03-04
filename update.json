@@ -1,0 +1,5 @@
+{
+  "Versao": "1.1.0.0",
+  "UrlDownload": "https://aqui-vai-ficar-o-link-do-seu-instalador-no-futuro.exe",
+  "NotasLancamento": "NOVIDADES DA VERSÃO 1.1:\n\n- Novo recurso de exportação inteligente em PDF de alta qualidade.\n- Otimização do posicionamento automático de pranchas.\n- Opção de forçar linhas finas no PDF sem alterar o View Template do projeto."
+}
