@@ -1,5 +1,5 @@
 {
-  "Versao": "2.0.2.2",
-  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.0.2.2/Instalador_BIMletrica_v2.0.2.2.exe",
-  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.0.2.2\n\n🔹 ATUALIZAÇÃO DO SISTEMA\n✅ Sistema OTA (Over-The-Air) de atualizações automáticas 100% estabilizado.\n\n🔹 RECAPITULANDO AS NOVIDADES RECENTES:\n⚡ Malha de Aterramento Avançada: Cálculo de tensões de PASSO e TOQUE (IEEE 80).\n📍 Coordenadas de Projeto: Google Maps e Adquirir Vínculo unificados.\n🗺️ Planta de Localização: Mapas vetoriais otimizados.\n📐 Gestão de Pranchas: Perfis de layout personalizados.\n📄 Exportação PDF: Função 'Forçar Linhas Finas' integrada."
+  "Versao": "2.0.2.3",
+  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.0.2.3/Instalador_BIMletrica_v2.0.2.3.exe",
+  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.0.2.3\n\n🔹 ESTABILIDADE TOTAL\n✅ Compatibilidade total do sistema de atualizações garantida para as versões do Revit 2023, 2024, 2025 e 2026.\n\n🔹 RECAPITULANDO:\n⚡ Malha de Aterramento Avançada: Tensões de PASSO e TOQUE (IEEE 80).\n📍 Coordenadas de Projeto: Google Maps e Adquirir Vínculo na mesma janela.\n🗺️ Planta de Localização: Mapas vetoriais otimizados.\n📐 Gestão de Pranchas: Perfis de layout com margens precisas."
 }
