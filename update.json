@@ -1,5 +1,5 @@
 {
   "Versao": "2.0.2.0",
-  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.0.1.0/Instalador_BIMletrica_v2.0.2.0.exe",
-  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.0.1.0\n\n🔹 NOVIDADE: Malha de Aterramento Avançada\nAgora com cálculo de tensões de PASSO e TOQUE (IEEE 80). \n⚠️ IMPORTANTE: Este recurso exige o uso do Template 2026 - v3.1 em diante para o correto mapeamento de parâmetros.\n\n🔹 Coordenadas de Projeto: Google Maps e Adquirir Vínculo agora em uma única janela.\n🔹 Planta de Localização: Mapas vetoriais mais rápidos e limpos.\n🔹 Montagem de Pranchas: Novos perfis de layout com margens personalizáveis em cm.\n🔹 Exportação PDF: Função 'Forçar Linhas Finas' para plotagens perfeitas."
+  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.0.2.0/Instalador_BIMletrica_v2.0.2.0.exe",
+  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.0.2.0\n\n🔹 NOVIDADE: Malha de Aterramento Avançada\nAgora com cálculo de tensões de PASSO e TOQUE (IEEE 80). \n⚠️ IMPORTANTE: Este recurso exige o uso do Template 2026 - v3.1 em diante.\n\n🔹 CORREÇÃO: Filtro de seleção otimizado para Revit 2026 (.NET 8).\n🔹 Coordenadas: Google Maps e Adquirir Vínculo agora unificados.\n🔹 Planta de Localização: Mapas vetoriais mais rápidos.\n🔹 Montagem de Pranchas: Perfis de layout personalizados.\n🔹 Exportação PDF: Função 'Forçar Linhas Finas' automática."
 }
