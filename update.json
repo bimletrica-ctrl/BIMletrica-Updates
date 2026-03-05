@@ -1,5 +1,5 @@
 {
-  "Versao": "2.0.2.1",
-  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.0.2.1/Instalador_BIMletrica_v2.0.2.1.exe",
-  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.0.2.1\n\n🔹 ATUALIZAÇÃO RÁPIDA (Hotfix)\nMelhorias internas de estabilidade na comunicação com o servidor e pequenos ajustes de performance.\n\n🔹 RECAPITULANDO (Versão 2.0.2.0):\n⚡ Malha de Aterramento Avançada: Cálculo de tensões de PASSO e TOQUE (Exige Template 2026 - v3.1 em diante).\n📍 Coordenadas de Projeto: Google Maps e Adquirir Vínculo agora unificados.\n🗺️ Planta de Localização: Mapas vetoriais mais rápidos.\n📐 Montagem de Pranchas: Perfis de layout personalizados.\n📄 Exportação PDF: Função 'Forçar Linhas Finas' automática."
+  "Versao": "2.0.2.2",
+  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.0.2.2/Instalador_BIMletrica_v2.0.2.2.exe",
+  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.0.2.2\n\n🔹 ATUALIZAÇÃO DO SISTEMA\n✅ Sistema OTA (Over-The-Air) de atualizações automáticas 100% estabilizado.\n\n🔹 RECAPITULANDO AS NOVIDADES RECENTES:\n⚡ Malha de Aterramento Avançada: Cálculo de tensões de PASSO e TOQUE (IEEE 80).\n📍 Coordenadas de Projeto: Google Maps e Adquirir Vínculo unificados.\n🗺️ Planta de Localização: Mapas vetoriais otimizados.\n📐 Gestão de Pranchas: Perfis de layout personalizados.\n📄 Exportação PDF: Função 'Forçar Linhas Finas' integrada."
 }
