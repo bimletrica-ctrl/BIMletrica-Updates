@@ -1,5 +1,5 @@
 {
-  "Versao": "2.1.2.3",
-  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.1.2.3/Instalador_BIMletrica_v2.1.2.3.exe",
-  "NotasLancamento": "🚀 BIMlétrica Pro - VERSÃO 2.1.2.3\n\n🔹 NOVIDADES DESTA VERSÃO:\n\n⚡ Malha de Aterramento (IEEE 80):\n✅ Cálculo algébrico rigoroso e auditado para Tensões de Passo e Toque.\n✅ Nova interface dinâmica para estratificação do solo (escolha de 1 a 4 camadas).\n✅ Leitura precisa do diâmetro real dos cabos (mm) e correção geométrica da malha.\n\n🗺️ Redes Aéreas na Planta de Localização:\n✅ Novo recurso para traçar redes elétricas na vista de rascunho.\n✅ Botão '📋 Colar do Maps': extrai latitude e longitude da área de transferência automaticamente.\n✅ Inserção inteligente de Famílias Paramétricas de poste com controle de status (Existente, Projetado ou Demolir) direto na interface.\n\n🔹 ESTABILIDADE TOTAL\n✅ Compatibilidade do sistema de atualizações garantida para o Revit 2023, 2024, 2025 e 2026."
+  "Versao": "2.2.2.3",
+  "UrlDownload": "https://github.com/bimletrica-ctrl/BIMletrica-Updates/releases/download/v2.2.2.3/Instalador_BIMletrica_v2.2.2.3.exe",
+  "NotasLancamento": "🚀 ATUALIZAÇÃO GIGANTE - BIMlétrica Pro v2.2.2.3\n\nNós liberamos o recurso mais pedido de todos os tempos:\n🔌 GERADOR AUTOMÁTICO DE DIAGRAMA UNIFILAR!\n\nAgora o plugin rastreia a sua subestação 3D e desenha o esquema unifilar em segundos.\n\n."
 }
